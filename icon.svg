@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1C1B1A"/>
+  <rect x="36" y="36" width="440" height="440" fill="none" stroke="#EBDCE0" stroke-width="6" opacity="0.55"/>
+  <circle cx="256" cy="186" r="68" fill="#EBDCE0" opacity="0.88"/>
+  <path d="M96 392 Q180 280 256 344 T416 320 V420 H96 Z" fill="#FAF8F6" opacity="0.92"/>
+  <text x="256" y="456" text-anchor="middle" font-family="Georgia, serif" font-size="28" letter-spacing="8" fill="#FAF8F6">BHL • 2026</text>
+</svg>

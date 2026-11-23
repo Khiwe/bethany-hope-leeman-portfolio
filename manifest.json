@@ -1,0 +1,21 @@
+{
+  "id": "./index.html",
+  "name": "Bethany Hope Leeman — Portfolio 2026",
+  "short_name": "Bethany Portfolio",
+  "description": "Portfolio 2026 — Painting, Textiles & Photography by Bethany Hope Leeman.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF8F6",
+  "theme_color": "#1C1B1A",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Artist Statement", "url": "./index.html#statement" },
+    { "name": "Selected Artworks", "url": "./index.html#works" },
+    { "name": "Archive & Lace", "url": "./index.html#archive" },
+    { "name": "Picture Studio Admin", "url": "./index.html#admin" }
+  ]
+}

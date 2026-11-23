@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Local tooling & temporary files
+deploy.command
+.wrangler/
+node_modules/
+*.log
+.env
+.env.*

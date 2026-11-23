@@ -1,0 +1,15 @@
+{
+  "id": "./admin.html",
+  "name": "Bethany Portfolio 2026 — Picture Studio",
+  "short_name": "BHL Studio",
+  "description": "Manage portfolio pictures, series slots, and auto-saved HTML.",
+  "start_url": "./admin.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF8F6",
+  "theme_color": "#1C1B1A",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
