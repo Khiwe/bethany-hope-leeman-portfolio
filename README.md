@@ -38,7 +38,8 @@ An editorial, multi-page art portfolio and installable Progressive Web App (PWA)
 ├── sw.js                  # Offline-first service worker
 ├── icon.svg               # Editorial monogram app icon
 ├── images/                # High-resolution artwork plates (51 photographs & paintings)
-└── .github/workflows/     # Optional Cloudflare Workers CI/CD deployment workflow
+├── LICENSE                # Copyright & rights reservation
+└── README.md              # Documentation & guide
 ```
 
 ---
@@ -66,13 +67,9 @@ Then visit `http://localhost:8000`.
 
 ## Deployment
 
-### Cloudflare Workers (Automated via GitHub Actions)
+The portfolio is deployed live on **Cloudflare Workers Static Assets** at [bethany-hope-leeman.nkentekhiwe.workers.dev](https://bethany-hope-leeman.nkentekhiwe.workers.dev).
 
-1. Push this repository to GitHub.
-2. In your GitHub repository, go to **Settings → Secrets and variables → Actions** and add:
-   - `CLOUDFLARE_API_TOKEN`
-   - `CLOUDFLARE_ACCOUNT_ID`
-3. Every push to `main` automatically deploys to `https://bethany-hope-leeman.nkentekhiwe.workers.dev` via [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
+Any updates saved locally or in Antigravity are automatically synchronized to the live site. Because this is a zero-build static application, it can also be hosted on GitHub Pages or any static CDN.
 
 ---
 
