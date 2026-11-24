@@ -2,7 +2,7 @@
    Lets the ONE central app (index.html) install and open offline as a PWA.
    Pages are fetched fresh when online (so updates appear), cached copy used when offline.
    Bump VERSION whenever you change the files to clear old caches. */
-const VERSION = 'v1795443908';
+const VERSION = 'v1795528743';
 const CACHE = 'bethany-portfolio-2026-' + VERSION;
 const SHELL = [
   'index.html',
