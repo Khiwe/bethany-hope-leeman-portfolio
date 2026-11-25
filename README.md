@@ -2,7 +2,9 @@
 
 > *Painting, Textiles, Pressed Botanicals & Photography — South Africa*
 
-**Live Site:** [bethany-hope-leeman.nkentekhiwe.workers.dev](https://bethany-hope-leeman.nkentekhiwe.workers.dev)
+**Live Site:** [bethany-hope-leeman.nkentekhiwe.workers.dev](https://bethany-hope-leeman.nkentekhiwe.workers.dev)  
+**Instagram:** [@bethany.leaman](https://www.instagram.com/bethany.leaman/)  
+**Studio Inquiries:** [studio@bethanyleeman.com](mailto:studio@bethanyleeman.com)
 
 ---
 
